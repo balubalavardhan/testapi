@@ -1,5 +1,7 @@
 {
-id:01,
-name:'Balavardhan',
-address:'Hyderabad'
+  "students" : [
+    {id:1, name:'Balavardhan', gender:'male', address:'Hyderabad'},
+    {id:2, name:'Suvarna', gender:'female', address:'Kphb'},
+    {id:3, name:'Rekha', gender:'female', address:'Chandanagar'}Update d
+    ]
 }
